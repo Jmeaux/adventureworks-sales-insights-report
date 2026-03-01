@@ -11,7 +11,7 @@ The report contains multiple report pages to support both high-level executive r
 
 # 🖥 Dashboard – Main Overview Page
 
-![Main Dashboard](C:\Data Analysis\adventureworks-sales-insights-report\images\adventureworks-sales-insights-report-main.png)
+![Main Dashboard](images/adventureworks-sales-insights-report-main.png)
 
 This page provides a high-level summary of business performance, including:
 
@@ -25,7 +25,7 @@ This page provides a high-level summary of business performance, including:
 
 # 🔎 Dashboard – Details Page
 
-![Details Page](C:\Data Analysis\adventureworks-sales-insights-report\images\adventureworks-sales-insights-report-details.png)
+![Details Page](images/adventureworks-sales-insights-report-details.png)
 
 The Details page allows deeper analysis into:
 
@@ -38,7 +38,7 @@ The Details page allows deeper analysis into:
 
 # 📂 Data Preview (Sample Rows)
 
-![Data Rows](C:\Data Analysis\adventureworks-sales-insights-report\images\adventureworks-sales-insights-report-rows.png)
+![Data Rows](images/adventureworks-sales-insights-report-rows.png)
 
 This image shows a sample of the underlying dataset used to build the report.
 
@@ -58,7 +58,7 @@ The following KPIs are displayed prominently on the dashboard:
 - **Total Sales**
 - **Total Orders**
 - **Average Order Value (AOV)**
-
+png
 All KPI values dynamically update based on slicer selections.
 
 ---
